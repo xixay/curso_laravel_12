@@ -14,17 +14,6 @@
 
 | Tarea | Enlace | Tarea | Enlace |
 |------|--------|------|--------|
-| **1.- tarea 01** | [Ver](https://github.com/xixay/curso_vue_ts_tarea1) | **2. cuestionarios** | [Ver](https://github.com/xixay/curso_vue_ts_cuestionarios) |
-
-
-# repositorio backend
-<!-- [>> EXPRESS](https://github.com/xixay/curso_vue_proyecto_base_backend) -->
-
-# repositorio frontend
-<!-- [>> VUE3 + VITE + VUEPRIME](https://github.com/xixay/curso_vue_proyecto_base_frontend) -->
-
-# repositorio producción
-<!-- [>> BACKEND + FRONTEND](https://github.com/xixay/docker-node-vue-production) -->
-
+| **1.- tarea 02** | [Ver](https://github.com/xixay/curso_laravel_12_clase4_/blob/main/tarea2.md) | | |
 
 [<< INDICE](https://github.com/xixay/ayuda-memoria/tree/main)
