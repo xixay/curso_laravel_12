@@ -9,6 +9,7 @@
 | **4.2- clase 04-B** | [Ver](https://github.com/xixay/curso_laravel_12_clase4_) | **5. clase 05** | [Ver](https://github.com/xixay/curso_laravel_12_clase5) |
 | **6.- clase 06** | [Ver](https://github.com/xixay/curso_laravel_12_clase6) | **7. clase 07** | [Ver](https://github.com/xixay/curso_laravel_12_clase7) |
 | **8.- clase 08** | [Ver](https://github.com/xixay/curso_laravel_12_clase8) | **9. clase 09** | [Ver](https://github.com/xixay/curso_laravel_12_clase9) |
+| **10.- clase 10** | [Ver](https://github.com/xixay/curso_laravel_12_clase10) | **11. clase 11** | [Ver](https://github.com/xixay/curso_laravel_12_clase11) |
 
 # Evaluaciones
 
